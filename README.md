@@ -4,4 +4,3 @@ This repository contains all python notebooks and report for last assignment.
 
 Answers for weekly graded quiz are in the python notebooks. 
 
-#Comments are not added to identify quiz answers.
